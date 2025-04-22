@@ -1,0 +1,21 @@
+{
+  "base-file": "\/home\/tails1154\/galaxy\/SB4E01.wbfs",
+  "display-name": "preset",
+  "riivolution": {
+    "patches": [
+      {
+        "options": [
+          {
+            "choice": 1,
+            "option-name": "Enable",
+            "section-name": "SMG2: Starfall"
+          }
+        ],
+        "root": "\/home\/tails1154\/galaxy\/starfall",
+        "xml": "\/home\/tails1154\/galaxy\/starfall\/riivolution\/SMG2S.xml"
+      }
+    ]
+  },
+  "type": "dolphin-game-mod-descriptor",
+  "version": 1
+}
