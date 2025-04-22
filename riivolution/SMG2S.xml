@@ -23,6 +23,7 @@
                             <folder external="SystemData" disc="/SystemData" create="true" />
 
                             <folder external="LocalizeData" disc="/LocalizeData" create="true" />
+                            <folder external="CustomCode" disc="/CustomCode" create="true" />
 
                             <!-- GLE -->
                             <folder external="ScenarioData" disc="/ScenarioData" create="true" />
