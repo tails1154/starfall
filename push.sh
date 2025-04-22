@@ -1,0 +1,1 @@
+commit_msg=$(kdialog --inputbox "Enter commit message:") && git init && git add . && git commit -m "$commit_msg" && git push || true && cd SMG2starfall && kdialog --yesno "Start dolphin?" && QT_QPA_PLATFORM=xcb dolphin-emu -b preset.json && cd ..
