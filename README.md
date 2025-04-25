@@ -10,7 +10,7 @@ Step 1:
 
 either download the git repo as a zip or use `git clone https://github.com/tails1154/starfall`
 
-then when you see the riivolution folder, copy it to your sd card.
+copy the SMG2starfall and riivolution folder to your sd card
 
 ## Editing/Contributing
 
