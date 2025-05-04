@@ -4,4 +4,5 @@ galaxy=$(kdialog --inputbox "Enter galaxy name")
 starno=$(kdialog --inputbox "StarNo")
 scenariono=$(kdialog --inputbox "ScenarioNo")
 #sleep 5
-python3 ~/Documents/coding/python/galaxytoolkit_python/startgalaxy_param.py --v1 $galaxy --v2 $starno --v3 $scenariono
+kdialog --msgbox "Press OK when ready"
+python3 ~/Documents/coding/python/galaxytoolkit_python/startgalaxy_param.py $galaxy $starno $scenariono
