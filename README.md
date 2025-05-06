@@ -2,7 +2,7 @@
 Super mario galaxy 2 mod
 
 
-**This mod is unfinished!**
+## **This mod is unfinished!**
 
 
 ## Using the mod
